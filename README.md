@@ -11,7 +11,7 @@ Objetivo desse projeto foi colocar os principais conceitos do angular em prátic
 ## Como clonar o repositório
 
 ```
-git clone https://github.com/SilvaTs/Crud-Angular-Product.git
+git clone https://github.com/SilvaTs/crud-angular-produtos.git
 ```
 ---
 ## Executando o projeto
