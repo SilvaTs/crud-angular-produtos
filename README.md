@@ -4,7 +4,7 @@
 </div>
 
 ## 💻 Projeto
-Objetivo desse projeto foi colocar os principais conceitos do angular em prática, consumindo uma api fake utilizando jason server.
+Objetivo desse projeto foi colocar os principais conceitos do angular em prática, consumindo uma api fake utilizando json server.
 
 ---
 
